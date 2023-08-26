@@ -1,11 +1,11 @@
-# Hospital-Management-System_Course-project
+# Hands on with Systems Programming | Course Project 
 
-Database Management Systems Project under Prof. Pabitra Mitra and Prof. K. S. Rao, IIT Kharagpur
+Operating System Project under Prof. Mainack Mondal and Prof. Saptarshi Ghosh, IIT Kharagpur
 
-• Developed a comprehensive hospital management system to optimize the operational efficiency and enhance patient care 
+• Programmed custom shell on top of the Linux kernel, incorporating some features like IO redirection and piped commands
 
-• Utilised ReactJS for developing the website's frontend, NodeJS for the backend and MySQL for managing the database
+• Incorporated some additional features like wildcard handling, storing command history, malware detection, file locks, etc
 
-• Implemented various features, including calendar-based and emergency appointment scheduling with email notifications
+• Designed and implemented a push-update mechanism with multi-threading for diverse actions on a social media platform
 
-• Designed and added more functionalities such as role-based login, file storage system, and automated invoice generation
+• Employed mutex locks and semaphores proficiently to ensure concurrent thread synchronization and controlled access
